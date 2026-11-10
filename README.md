@@ -2,8 +2,8 @@
 
 Auto-published every 12h.
 
-Last updated: 2026-11-09 04:01 UTC
-Total configs: 1316  |  Clash-compatible: 1257
+Last updated: 2026-11-10 05:34 UTC
+Total configs: 1344  |  Clash-compatible: 1299
 
 ## Use in V2rayNG 
 Add as a subscription URL base64
